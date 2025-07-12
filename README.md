@@ -169,13 +169,13 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 <p align="center">
   <a href="tel:+918320584100">
     <img src="https://img.shields.io/badge/Phone-📞%20+91–8320584100-blue?style=for-the-badge" alt="Phone" />
-  </a>
+  </a></br>
   <a href="mailto:krusilkapupara456@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-krusilkapupara456@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a></br>
   <a href="https://www.linkedin.com/in/krushil-kapupara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Krushil%20Kapura-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  </a></br>
   <a href="https://github.com/Krushil45" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Krushil45-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
