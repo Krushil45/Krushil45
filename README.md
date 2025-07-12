@@ -98,17 +98,6 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 
 ---
 
-### 🧪 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🎯 [Quiz App](https://github.com/Krushil45/quiz-app) | Spring Boot, Spring Security, PostgreSQL-based quiz management system with REST APIs |
-| 💼 [Job Portal](https://github.com/Krushil45/internship-portal) | React + Spring Boot job platform with MongoDB, Tailwind CSS, Swagger API docs |
-| 🌐 [Alumni Architect](https://github.com/Krushil45/alumni-platform) | Full-stack networking platform with JWT authentication and Docker support |
-| 💬 [StackIt](https://github.com/Krushil45/stackit) | Q&A Platform with rich text editor, tag filters, answer voting, and more |
-
----
-
 ## 📝 Repositories  
 [Explore My Repositories](https://github.com/Krushil45?tab=repositories) 
 
