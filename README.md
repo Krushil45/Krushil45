@@ -119,8 +119,8 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
     <td>Full-stack networking app for alumni-student mentorship using React, Spring Boot, JWT Auth, Docker, and Tailwind CSS.</td>
   </tr>
   <tr>
-    <td>💬 <strong><a href="https://github.com/Krushil45/stackit">StackIt</a></strong></td>
-    <td>Q&A forum platform with rich text editing, multi-tag filtering, answer voting, and user interaction. Built using React, Node.js, MySQL.</td>
+    <td>💬 <strong><a href="https://github.com/Krushil45/Pharmacy_management ">Pharmacy_management</a></strong></td>
+    <td>A web-based Pharmacy Management System designed for administrative use only. It enables pharmacy administrators to manage medicines, stock, customers, suppliers, invoices, and reports efficiently.</td>
   </tr>
 </table>
 
