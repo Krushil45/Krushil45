@@ -109,6 +109,11 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 
 ---
 
+## 📝 Repositories  
+[Explore My Repositories](https://github.com/Krushil45?tab=repositories) 
+
+---
+
 ## 🧪 Featured Projects
 
 <table>
@@ -140,12 +145,6 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
     <td><strong>G H Patel College of Engineering & Technology (CVM University)</strong><br>
     🎓 B.Tech – Information Technology (2022–2026)<br>
     📈 CGPA: 8.52</td>
-  </tr>
-  <tr>
-    <td>🏫</td>
-    <td><strong>Dev International School, Junagadh</strong><br>
-    🎓 Higher Secondary – Science Stream (2020–2022)<br>
-    📊 Percentage: 75.38%</td>
   </tr>
 </table>
 
