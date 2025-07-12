@@ -66,18 +66,35 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 
 ### 🏆 Certifications
 
-- ✅ Core Java Specialization by Duke University (Coursera) – OOP, class hierarchies, core Java libraries  
-- ✅ Advanced Java, Spring 6, Spring Boot 3 – JDBC, JPA, Spring Security, Docker, Microservices
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Core Java Specialization</strong> by Duke University (Coursera)<br>
+    📌 Covered: OOP, class hierarchies, Java core libraries<br>
+    📜 Built hands-on Java projects and earned verified certification</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Advanced Java, Spring 6 & Spring Boot 3</strong><br>
+    📌 Topics: JDBC, JPA, Spring Security, Microservices, Docker<br>
+    💡 Built enterprise-level secure and scalable Spring-based applications</td>
+  </tr>
+</table>
 
 ---
 
 ### 💼 Experience
 
-**Java Full Stack Intern** – *Zidio Development* (Remote)  
-📅 May 2025 – June 2025  
-- Developed a complete module (e.g., authentication or student profile management)  
-- Worked on requirements analysis, testing, documentation, and final presentation  
-- Tech used: React.js, Java, Spring Boot, MySQL  
+<table>
+  <tr>
+    <td>🏢</td>
+    <td><strong>Java Full Stack Intern</strong> – <em>Zidio Development (Remote)</em><br>
+    📅 <strong>May 2025 – June 2025</strong><br>
+    🛠️ <strong>Tech Used:</strong> Java, Spring Boot, React.js, MySQL<br>
+    ✅ Developed a fully functional module (e.g., authentication / profile management)<br>
+    ✅ Participated in end-to-end SDLC: requirements → coding → testing → deployment</td>
+  </tr>
+</table>
 
 ---
 
@@ -92,30 +109,77 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 
 ---
 
-### 🎓 Education
+## 🧪 Featured Projects
 
-**G H Patel College of Engineering & Technology**  
-🎓 B.Tech in Information Technology (2022–2026)  
-📈 CGPA: 8.52  
-
-**Dev International School, Junagadh**  
-🎓 Higher Secondary (2020–2022)  
-📊 Percentage: 75.38%
+<table>
+  <tr>
+    <td width="30%">🎯 <strong><a href="https://github.com/Krushil45/quiz-app">Quiz App</a></strong></td>
+    <td>Spring Boot, Spring Security, PostgreSQL-based quiz system with authentication, quiz creation, and result tracking via REST APIs.</td>
+  </tr>
+  <tr>
+    <td>💼 <strong><a href="https://github.com/Krushil45/internship-portal">Job Portal</a></strong></td>
+    <td>React + Spring Boot job platform using MongoDB. Features include job listing, search, pagination, and integrated Swagger API testing.</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong><a href="https://github.com/Krushil45/alumni-platform">Alumni Architect</a></strong></td>
+    <td>Full-stack networking app for alumni-student mentorship using React, Spring Boot, JWT Auth, Docker, and Tailwind CSS.</td>
+  </tr>
+  <tr>
+    <td>💬 <strong><a href="https://github.com/Krushil45/stackit">StackIt</a></strong></td>
+    <td>Q&A forum platform with rich text editing, multi-tag filtering, answer voting, and user interaction. Built using React, Node.js, MySQL.</td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+### 🎓 Education
 
-![Krushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krushil45&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushil45&layout=compact)
+<table>
+  <tr>
+    <td>🏫</td>
+    <td><strong>G H Patel College of Engineering & Technology (CVM University)</strong><br>
+    🎓 B.Tech – Information Technology (2022–2026)<br>
+    📈 CGPA: 8.52</td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td><strong>Dev International School, Junagadh</strong><br>
+    🎓 Higher Secondary – Science Stream (2020–2022)<br>
+    📊 Percentage: 75.38%</td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krushil45&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushil45&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushil45&theme=tokyonight&hide_border=true" width="96%" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
-📞 +91-8320584100  
-📧 [krusilkapupara456@gmail.com](mailto:krusilkapupara456@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/krushil-kapupara)  
-💻 [GitHub](https://github.com/Krushil45)
+<p align="center">
+  <a href="tel:+918320584100">
+    <img src="https://img.shields.io/badge/Phone-📞%20+91–8320584100-blue?style=for-the-badge" alt="Phone" />
+  </a>
+  <a href="mailto:krusilkapupara456@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-krusilkapupara456@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/krushil-kapupara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Krushil%20Kapura-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Krushil45" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Krushil45-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
 
 ---
