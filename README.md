@@ -108,7 +108,7 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 <table>
   <tr>
     <td width="30%">🎯 <strong><a href="https://github.com/Krushil45/quiz-app">Quiz App</a></strong></td>
-    <td>Spring Boot, Spring Security, PostgreSQL-based quiz system with authentication, quiz creation, and result tracking via REST APIs.</td>
+    <td>Spring Boot, Spring Security, PostgreSQL-based quiz system with authentication, quiz creation, and result tracking via REST APIs. I am currently modifying it so it is not available.</td>
   </tr>
   <tr>
     <td>💼 <strong><a href="https://github.com/Krushil45/Job-Portal">Job Portal</a></strong></td>
