@@ -111,11 +111,11 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
     <td>Spring Boot, Spring Security, PostgreSQL-based quiz system with authentication, quiz creation, and result tracking via REST APIs.</td>
   </tr>
   <tr>
-    <td>💼 <strong><a href="https://github.com/Krushil45/internship-portal">Job Portal</a></strong></td>
+    <td>💼 <strong><a href="https://github.com/Krushil45/Job-Portal">Job Portal</a></strong></td>
     <td>React + Spring Boot job platform using MongoDB. Features include job listing, search, pagination, and integrated Swagger API testing.</td>
   </tr>
   <tr>
-    <td>🌐 <strong><a href="https://github.com/Krushil45/alumni-platform">Alumni Architect</a></strong></td>
+    <td>🌐 <strong><a href="https://github.com/Krushil45/Alumni-Architect-Portal ">Alumni Architect</a></strong></td>
     <td>Full-stack networking app for alumni-student mentorship using React, Spring Boot, JWT Auth, Docker, and Tailwind CSS.</td>
   </tr>
   <tr>
