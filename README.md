@@ -62,39 +62,6 @@ Java Developer specializing in scalable backend systems using Spring and Hiberna
 - Database Management System (DBMS)  
 - Data Structures & Algorithms (DSA)
 
----
-
-### 🏆 Certifications
-
-<table>
-  <tr>
-    <td>🎓</td>
-    <td><strong>Core Java Specialization</strong> by Duke University (Coursera)<br>
-    📌 Covered: OOP, class hierarchies, Java core libraries<br>
-    📜 Built hands-on Java projects and earned verified certification</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td><strong>Advanced Java, Spring 6 & Spring Boot 3</strong><br>
-    📌 Topics: JDBC, JPA, Spring Security, Microservices, Docker<br>
-    💡 Built enterprise-level secure and scalable Spring-based applications</td>
-  </tr>
-</table>
-
----
-
-### 💼 Experience
-
-<table>
-  <tr>
-    <td>🏢</td>
-    <td><strong>Java Full Stack Intern</strong> – <em>Zidio Development (Remote)</em><br>
-    📅 <strong>May 2025 – June 2025</strong><br>
-    🛠️ <strong>Tech Used:</strong> Java, Spring Boot, React.js, MySQL<br>
-    ✅ Developed a fully functional module (e.g., authentication / profile management)<br>
-    ✅ Participated in end-to-end SDLC: requirements → coding → testing → deployment</td>
-  </tr>
-</table>
 
 ---
 
